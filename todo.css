@@ -1,0 +1,51 @@
+*{
+    background-color: aqua;
+}
+
+#list_ li {
+    font-size: 25px;
+    
+    
+  }
+
+  .container{
+
+    position: relative;
+    background: cyan;
+    height: 600px;
+    width: 800px;
+    top:100px;
+    left: 150px;
+    
+    
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+
+/*table, tr {
+  border: 1px solid black;
+  
+}*/
+
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+#date{
+    color: navy;
+    font-size: 30px;
+    cursor: pointer;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+
+.container i{
+    cursor: pointer;
+}
